@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/solos-tu-y-yo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Solos tú y yo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/solos-tu-y-yo/) |
+| **Get License** | [Music Rights & Licensing for Solos tú y yo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/solos-tu-y-yo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Solos tú y yo, mami, perdiendo el control
+> La noche está fría, pero sube el calor
+> Baby, tell me now, apaga ya la luz
+> Que en este laberinto, mi salida eres tú
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
