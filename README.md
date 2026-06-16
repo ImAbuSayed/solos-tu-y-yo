@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/solos-tu-y-yo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Solos tú y yo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/solos-tu-y-yo/) |
+| **Get License** | [Get a Licensing Quote for Solos tú y yo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/solos-tu-y-yo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `26c9bfcc9939e58b15e107bc02d4a2867d8b80ae9165a90e939c969ddf5822b7` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
